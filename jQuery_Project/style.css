@@ -1,0 +1,19 @@
+.circle {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	/* width and height can be anything, as long as they're equal */
+  background-color: #4485ed;
+  border: black solid 5px;
+}
+
+table{
+  margin: auto;
+  /*width: 50%;*/
+  background-color: blue;
+}
+
+.hd {
+  margin: auto;
+  text-align: center;
+}
